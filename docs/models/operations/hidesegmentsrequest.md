@@ -1,0 +1,10 @@
+# HideSegmentsRequest
+
+
+## Fields
+
+| Field                                                                            | Type                                                                             | Required                                                                         | Description                                                                      | Example                                                                          |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| `org_id`                                                                         | *str*                                                                            | :heavy_check_mark:                                                               | Your company's unique organization ID                                            | org-123                                                                          |
+| `dataset_id`                                                                     | *str*                                                                            | :heavy_check_mark:                                                               | The unique dataset ID in your company.                                           | model-123                                                                        |
+| `segments_list_request`                                                          | [components.SegmentsListRequest](../../models/components/segmentslistrequest.md) | :heavy_check_mark:                                                               | N/A                                                                              |                                                                                  |

@@ -1,0 +1,9 @@
+# CreateSessionResponse
+
+
+## Fields
+
+| Field                                                                                          | Type                                                                                           | Required                                                                                       | Description                                                                                    |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                    | [components.HTTPMetadata](../../models/components/httpmetadata.md)                             | :heavy_check_mark:                                                                             | N/A                                                                                            |
+| `create_session_response`                                                                      | [Optional[components.CreateSessionResponse]](../../models/components/createsessionresponse.md) | :heavy_minus_sign:                                                                             | A new session id that can be used to upload dataset profiles.                                  |

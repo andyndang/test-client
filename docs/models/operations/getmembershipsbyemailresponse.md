@@ -1,0 +1,9 @@
+# GetMembershipsByEmailResponse
+
+
+## Fields
+
+| Field                                                                                            | Type                                                                                             | Required                                                                                         | Description                                                                                      |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| `http_meta`                                                                                      | [components.HTTPMetadata](../../models/components/httpmetadata.md)                               | :heavy_check_mark:                                                                               | N/A                                                                                              |
+| `get_memberships_response`                                                                       | [Optional[components.GetMembershipsResponse]](../../models/components/getmembershipsresponse.md) | :heavy_minus_sign:                                                                               | GetMembershipsByEmail 200 response                                                               |

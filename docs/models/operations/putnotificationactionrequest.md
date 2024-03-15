@@ -1,0 +1,11 @@
+# PutNotificationActionRequest
+
+
+## Fields
+
+| Field                                                          | Type                                                           | Required                                                       | Description                                                    | Example                                                        |
+| -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| `org_id`                                                       | *str*                                                          | :heavy_check_mark:                                             | N/A                                                            | org-123                                                        |
+| `type`                                                         | [components.ActionType](../../models/components/actiontype.md) | :heavy_check_mark:                                             | N/A                                                            | EMAIL                                                          |
+| `action_id`                                                    | *str*                                                          | :heavy_check_mark:                                             | N/A                                                            | user-action                                                    |
+| `request_body`                                                 | *str*                                                          | :heavy_check_mark:                                             | N/A                                                            |                                                                |

@@ -1,0 +1,9 @@
+# BatchCreateReferenceProfileUploadResponse
+
+
+## Fields
+
+| Field                                                                                                                | Type                                                                                                                 | Required                                                                                                             | Description                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                                          | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                                   | :heavy_check_mark:                                                                                                   | N/A                                                                                                                  |
+| `batch_log_session_reference_response`                                                                               | [Optional[components.BatchLogSessionReferenceResponse]](../../models/components/batchlogsessionreferenceresponse.md) | :heavy_minus_sign:                                                                                                   | BatchCreateReferenceProfileUpload 200 response                                                                       |

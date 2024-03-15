@@ -1,0 +1,9 @@
+# GetDefaultMembershipForEmailResponse
+
+
+## Fields
+
+| Field                                                                                                        | Type                                                                                                         | Required                                                                                                     | Description                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| `http_meta`                                                                                                  | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                           | :heavy_check_mark:                                                                                           | N/A                                                                                                          |
+| `get_default_membership_response`                                                                            | [Optional[components.GetDefaultMembershipResponse]](../../models/components/getdefaultmembershipresponse.md) | :heavy_minus_sign:                                                                                           | GetDefaultMembershipForEmail 200 response                                                                    |

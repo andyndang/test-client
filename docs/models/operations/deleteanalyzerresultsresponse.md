@@ -1,0 +1,9 @@
+# DeleteAnalyzerResultsResponse
+
+
+## Fields
+
+| Field                                                                                                          | Type                                                                                                           | Required                                                                                                       | Description                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                                    | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                             | :heavy_check_mark:                                                                                             | N/A                                                                                                            |
+| `delete_analyzer_results_response`                                                                             | [Optional[components.DeleteAnalyzerResultsResponse]](../../models/components/deleteanalyzerresultsresponse.md) | :heavy_minus_sign:                                                                                             | The \[DeleteAnalyzerResultsResponse\] if operation succeeds                                                    |

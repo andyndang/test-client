@@ -1,0 +1,16 @@
+# DeleteAnalyzerResult
+
+
+## Fields
+
+| Field                                                                  | Type                                                                   | Required                                                               | Description                                                            |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| `status`                                                               | [components.DeletionStatus](../../models/components/deletionstatus.md) | :heavy_check_mark:                                                     | N/A                                                                    |
+| `creation_timestamp`                                                   | *int*                                                                  | :heavy_check_mark:                                                     | N/A                                                                    |
+| `updated_timestamp`                                                    | *int*                                                                  | :heavy_check_mark:                                                     | N/A                                                                    |
+| `org_id`                                                               | *str*                                                                  | :heavy_check_mark:                                                     | N/A                                                                    |
+| `dataset_id`                                                           | *str*                                                                  | :heavy_check_mark:                                                     | N/A                                                                    |
+| `id`                                                                   | *Optional[int]*                                                        | :heavy_minus_sign:                                                     | N/A                                                                    |
+| `delete_gte`                                                           | *Optional[int]*                                                        | :heavy_minus_sign:                                                     | N/A                                                                    |
+| `delete_lt`                                                            | *Optional[int]*                                                        | :heavy_minus_sign:                                                     | N/A                                                                    |
+| `analyzer_id`                                                          | *Optional[str]*                                                        | :heavy_minus_sign:                                                     | N/A                                                                    |

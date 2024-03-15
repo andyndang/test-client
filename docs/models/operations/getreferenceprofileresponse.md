@@ -1,0 +1,9 @@
+# GetReferenceProfileResponse
+
+
+## Fields
+
+| Field                                                                                                        | Type                                                                                                         | Required                                                                                                     | Description                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| `http_meta`                                                                                                  | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                           | :heavy_check_mark:                                                                                           | N/A                                                                                                          |
+| `reference_profile_item_response`                                                                            | [Optional[components.ReferenceProfileItemResponse]](../../models/components/referenceprofileitemresponse.md) | :heavy_minus_sign:                                                                                           | The metadata for the summarized dataset profile including paths to JSON and protobuf data                    |

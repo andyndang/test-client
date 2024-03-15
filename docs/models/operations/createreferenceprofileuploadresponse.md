@@ -1,0 +1,9 @@
+# CreateReferenceProfileUploadResponse
+
+
+## Fields
+
+| Field                                                                                                      | Type                                                                                                       | Required                                                                                                   | Description                                                                                                |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                                | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                         | :heavy_check_mark:                                                                                         | N/A                                                                                                        |
+| `log_session_reference_response`                                                                           | [Optional[components.LogSessionReferenceResponse]](../../models/components/logsessionreferenceresponse.md) | :heavy_minus_sign:                                                                                         | CreateReferenceProfileUpload 200 response                                                                  |

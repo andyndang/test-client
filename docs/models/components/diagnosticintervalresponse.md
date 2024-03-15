@@ -1,0 +1,11 @@
+# DiagnosticIntervalResponse
+
+
+## Fields
+
+| Field                                                               | Type                                                                | Required                                                            | Description                                                         | Example                                                             |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| `interval`                                                          | *str*                                                               | :heavy_check_mark:                                                  | N/A                                                                 |                                                                     |
+| `time_period`                                                       | [components.TimePeriod](../../models/components/timeperiod.md)      | :heavy_check_mark:                                                  | A TimePeriod represents the bucketing that a dataset has undergone. | P1D                                                                 |
+| `start_timestamp`                                                   | *int*                                                               | :heavy_check_mark:                                                  | N/A                                                                 |                                                                     |
+| `end_timestamp`                                                     | *int*                                                               | :heavy_check_mark:                                                  | N/A                                                                 |                                                                     |

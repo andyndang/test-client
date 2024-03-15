@@ -1,0 +1,9 @@
+# ProvisionNewUserResponse
+
+
+## Fields
+
+| Field                                                                                                | Type                                                                                                 | Required                                                                                             | Description                                                                                          |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                          | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                   | :heavy_check_mark:                                                                                   | N/A                                                                                                  |
+| `provision_new_user_response`                                                                        | [Optional[components.ProvisionNewUserResponse]](../../models/components/provisionnewuserresponse.md) | :heavy_minus_sign:                                                                                   | ProvisionNewUser 200 response                                                                        |

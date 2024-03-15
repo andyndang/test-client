@@ -1,0 +1,9 @@
+# RecommendDiagnosticIntervalResponse
+
+
+## Fields
+
+| Field                                                                                                    | Type                                                                                                     | Required                                                                                                 | Description                                                                                              |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                              | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                       | :heavy_check_mark:                                                                                       | N/A                                                                                                      |
+| `diagnostic_interval_response`                                                                           | [Optional[components.DiagnosticIntervalResponse]](../../models/components/diagnosticintervalresponse.md) | :heavy_minus_sign:                                                                                       | RecommendDiagnosticInterval 200 response                                                                 |

@@ -1,0 +1,9 @@
+workflowVersion: 1.0.0
+sources:
+    openapi:
+        inputs:
+            - location: /Volumes/Workspace/guardrails-playground/open.yaml
+targets:
+    first-target:
+        target: python
+        source: openapi

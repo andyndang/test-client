@@ -1,0 +1,9 @@
+# GetPagerDutyNotificationActionPayloadResponse
+
+
+## Fields
+
+| Field                                                                                                      | Type                                                                                                       | Required                                                                                                   | Description                                                                                                |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                                | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                         | :heavy_check_mark:                                                                                         | N/A                                                                                                        |
+| `pager_duty_notification_action`                                                                           | [Optional[components.PagerDutyNotificationAction]](../../models/components/pagerdutynotificationaction.md) | :heavy_minus_sign:                                                                                         | getPagerDutyNotificationActionPayload 200 response                                                         |

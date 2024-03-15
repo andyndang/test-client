@@ -1,0 +1,9 @@
+# ExportTracesJSONResponse
+
+
+## Fields
+
+| Field                                                                                                    | Type                                                                                                     | Required                                                                                                 | Description                                                                                              |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                              | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                       | :heavy_check_mark:                                                                                       | N/A                                                                                                      |
+| `export_trace_service_response`                                                                          | [Optional[components.ExportTraceServiceResponse]](../../models/components/exporttraceserviceresponse.md) | :heavy_minus_sign:                                                                                       | ExportTraces 200 response                                                                                |

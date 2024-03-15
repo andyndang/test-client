@@ -1,0 +1,9 @@
+# GetAccountMembershipsResponse
+
+
+## Fields
+
+| Field                                                                                                          | Type                                                                                                           | Required                                                                                                       | Description                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                                    | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                             | :heavy_check_mark:                                                                                             | N/A                                                                                                            |
+| `get_account_memberships_response`                                                                             | [Optional[components.GetAccountMembershipsResponse]](../../models/components/getaccountmembershipsresponse.md) | :heavy_minus_sign:                                                                                             | GetAccountMemberships 200 response                                                                             |

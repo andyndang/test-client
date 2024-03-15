@@ -1,0 +1,10 @@
+# LogAsyncRequest
+
+
+## Fields
+
+| Field                                                                    | Type                                                                     | Required                                                                 | Description                                                              | Example                                                                  |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| `org_id`                                                                 | *str*                                                                    | :heavy_check_mark:                                                       | N/A                                                                      | org-123                                                                  |
+| `dataset_id`                                                             | *str*                                                                    | :heavy_check_mark:                                                       | N/A                                                                      | model-123                                                                |
+| `log_async_request`                                                      | [components.LogAsyncRequest](../../models/components/logasyncrequest.md) | :heavy_check_mark:                                                       | N/A                                                                      |                                                                          |

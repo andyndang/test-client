@@ -1,0 +1,9 @@
+# AnalyzerSegmentsDiagnosticResponse
+
+
+## Fields
+
+| Field                                                                                                          | Type                                                                                                           | Required                                                                                                       | Description                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| `noisy_segments`                                                                                               | List[[components.AnalyzerSegmentDiagnosticRecord](../../models/components/analyzersegmentdiagnosticrecord.md)] | :heavy_check_mark:                                                                                             | N/A                                                                                                            |
+| `failed_segments`                                                                                              | List[[components.AnalyzerSegmentFailureRecord](../../models/components/analyzersegmentfailurerecord.md)]       | :heavy_check_mark:                                                                                             | N/A                                                                                                            |

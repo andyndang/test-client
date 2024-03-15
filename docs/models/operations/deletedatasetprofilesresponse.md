@@ -1,0 +1,9 @@
+# DeleteDatasetProfilesResponse
+
+
+## Fields
+
+| Field                                                                                                          | Type                                                                                                           | Required                                                                                                       | Description                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                                    | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                             | :heavy_check_mark:                                                                                             | N/A                                                                                                            |
+| `delete_dataset_profiles_response`                                                                             | [Optional[components.DeleteDatasetProfilesResponse]](../../models/components/deletedatasetprofilesresponse.md) | :heavy_minus_sign:                                                                                             | The \[DeleteDatasetProfilesResponse\] if operation succeeds                                                    |

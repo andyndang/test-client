@@ -1,0 +1,9 @@
+# StartTransactionResponse
+
+
+## Fields
+
+| Field                                                                                            | Type                                                                                             | Required                                                                                         | Description                                                                                      |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| `http_meta`                                                                                      | [components.HTTPMetadata](../../models/components/httpmetadata.md)                               | :heavy_check_mark:                                                                               | N/A                                                                                              |
+| `log_transaction_metadata`                                                                       | [Optional[components.LogTransactionMetadata]](../../models/components/logtransactionmetadata.md) | :heavy_minus_sign:                                                                               | StartTransaction 200 response                                                                    |

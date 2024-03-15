@@ -1,0 +1,9 @@
+# AnalyzersDiagnosticResponse
+
+
+## Fields
+
+| Field                                                                                            | Type                                                                                             | Required                                                                                         | Description                                                                                      |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| `noisy_analyzers`                                                                                | List[[components.AnalyzerDiagnosticRecord](../../models/components/analyzerdiagnosticrecord.md)] | :heavy_check_mark:                                                                               | N/A                                                                                              |
+| `failed_analyzers`                                                                               | List[[components.AnalyzerFailureRecord](../../models/components/analyzerfailurerecord.md)]       | :heavy_check_mark:                                                                               | N/A                                                                                              |

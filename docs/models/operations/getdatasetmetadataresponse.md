@@ -1,0 +1,9 @@
+# GetDatasetMetadataResponse
+
+
+## Fields
+
+| Field                                                                                                    | Type                                                                                                     | Required                                                                                                 | Description                                                                                              |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                              | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                       | :heavy_check_mark:                                                                                       | N/A                                                                                                      |
+| `get_dataset_metadata_response`                                                                          | [Optional[components.GetDatasetMetadataResponse]](../../models/components/getdatasetmetadataresponse.md) | :heavy_minus_sign:                                                                                       | GetDatasetMetadata 200 response                                                                          |

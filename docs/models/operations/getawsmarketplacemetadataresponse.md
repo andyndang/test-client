@@ -1,0 +1,9 @@
+# GetAWSMarketplaceMetadataResponse
+
+
+## Fields
+
+| Field                                                                                                            | Type                                                                                                             | Required                                                                                                         | Description                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                                      | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                               | :heavy_check_mark:                                                                                               | N/A                                                                                                              |
+| `get_marketplace_metadata_response`                                                                              | [Optional[components.GetMarketplaceMetadataResponse]](../../models/components/getmarketplacemetadataresponse.md) | :heavy_minus_sign:                                                                                               | GetAWSMarketplaceMetadata 200 response                                                                           |

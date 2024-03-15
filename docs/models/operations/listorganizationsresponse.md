@@ -1,0 +1,9 @@
+# ListOrganizationsResponse
+
+
+## Fields
+
+| Field                                                                                                  | Type                                                                                                   | Required                                                                                               | Description                                                                                            |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| `http_meta`                                                                                            | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                     | :heavy_check_mark:                                                                                     | N/A                                                                                                    |
+| `list_organizations_response`                                                                          | [Optional[components.ListOrganizationsResponse]](../../models/components/listorganizationsresponse.md) | :heavy_minus_sign:                                                                                     | a list of organization summary items                                                                   |

@@ -1,0 +1,9 @@
+# GetEmailNotificationActionPayloadResponse
+
+
+## Fields
+
+| Field                                                                                              | Type                                                                                               | Required                                                                                           | Description                                                                                        |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                        | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                 | :heavy_check_mark:                                                                                 | N/A                                                                                                |
+| `email_notification_action`                                                                        | [Optional[components.EmailNotificationAction]](../../models/components/emailnotificationaction.md) | :heavy_minus_sign:                                                                                 | getEmailNotificationActionPayload 200 response                                                     |

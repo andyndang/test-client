@@ -1,0 +1,9 @@
+# GetSessionProfileObservatoryLinkRequest
+
+
+## Fields
+
+| Field                                                                                                      | Type                                                                                                       | Required                                                                                                   | Description                                                                                                |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `session_id`                                                                                               | *str*                                                                                                      | :heavy_check_mark:                                                                                         | N/A                                                                                                        |
+| `get_profile_observatory_link_request`                                                                     | [components.GetProfileObservatoryLinkRequest](../../models/components/getprofileobservatorylinkrequest.md) | :heavy_check_mark:                                                                                         | N/A                                                                                                        |

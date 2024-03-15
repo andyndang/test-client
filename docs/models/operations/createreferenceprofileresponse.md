@@ -1,0 +1,9 @@
+# CreateReferenceProfileResponse
+
+
+## Fields
+
+| Field                                                                                                            | Type                                                                                                             | Required                                                                                                         | Description                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| `http_meta`                                                                                                      | [components.HTTPMetadata](../../models/components/httpmetadata.md)                                               | :heavy_check_mark:                                                                                               | N/A                                                                                                              |
+| `create_reference_profile_response`                                                                              | [Optional[components.CreateReferenceProfileResponse]](../../models/components/createreferenceprofileresponse.md) | :heavy_minus_sign:                                                                                               | The metadata for the summarized reference profile data                                                           |
